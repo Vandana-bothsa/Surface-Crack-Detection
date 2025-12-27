@@ -43,6 +43,14 @@ making it useful for real-world structural inspection applications.
 - Smart city projects
 
 ## Conclusion
+## Input and Output Examples
+
+### Input Image
+![Input](images/input/input1.png)
+
+### Output Image
+![Output](images/output/output1.png)
+
 This project demonstrates the effective use of deep learning for automated surface crack detection.
 It can be further enhanced by using larger datasets and advanced architectures.
 
